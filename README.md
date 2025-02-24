@@ -42,3 +42,6 @@ The script imports **NumPy, OpenCV, Matplotlib, Scikit-learn,** and **TQDM** for
     
 ### 9. Running a Sample Prediction ###
 - The script tests the model with `"C:/Users/KIIT/Desktop/PetImages/Cat/0.jpg".`
+
+## Key Objective:
+The key objective of this project is to **classify images of cats and dogs using a Support Vector Machine (SVM) model** with OpenCV for image processing. The goal is to preprocess image data, train an SVM classifier on extracted features, and evaluate its performance in distinguishing between cats and dogs.
